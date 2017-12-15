@@ -1,0 +1,31 @@
+New equipment to be added
+-------------------------------------------------------------------------------
+Drone Operating System					Equipment
+Mine Dispenser							Equipment
+Recon Camera							Equipment
+Vehicular Drop Chute (Reusable)			Equipment
+
+
+New systems to add
+-------------------------------------------------------------------------------
+Mechanical Jump Boosters				? new system  "Jump Booster"
+Large ICE								Engine
+Large Fusion							Engine
+Large Light Fusion						Engine
+Large XL Fusion							Engine
+Large XXL Fusion						Engine
+Turret, Shoulder						? new system
+Turret, Head							? new system
+Turret, Quad							? new system
+
+
+Experimental equipment checkboxes to add
+-------------------------------------------------------------------------------
+Booby Trap								? new system
+Mechwarrior Aquatic Survival System		? new system
+
+
+New rules to be implemented
+-------------------------------------------------------------------------------
+Fractional Accounting
+Patchwork Armor
